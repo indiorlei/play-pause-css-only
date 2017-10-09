@@ -1,0 +1,16 @@
+{
+  "name": "Play-Pause-CSS-Only",
+  "version": "1.0.0",
+  "description": "Play Pause CSS Only",
+  "license": "-",
+  "author": "Indiorlei",
+  "repository":{
+    "type" : "GIT",
+    "url": "https://github.com/indiorlei/play-pause-css-only"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
